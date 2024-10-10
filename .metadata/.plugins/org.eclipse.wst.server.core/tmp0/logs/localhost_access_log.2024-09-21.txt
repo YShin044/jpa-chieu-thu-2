@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Sep/2024:11:06:39 +0700] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [21/Sep/2024:11:08:45 +0700] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [21/Sep/2024:11:08:46 +0700] "GET /Login_Register/Controller HTTP/1.1" 200 26
+0:0:0:0:0:0:0:1 - - [21/Sep/2024:11:08:46 +0700] "GET /favicon.ico HTTP/1.1" 404 891
+127.0.0.1 - - [21/Sep/2024:11:34:10 +0700] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [21/Sep/2024:11:34:11 +0700] "GET /Login_Register/WEB-INF/classes/vn/iostar/configs/DBConnectSQL.java HTTP/1.1" 404 803
